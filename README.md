@@ -13,7 +13,7 @@ This is a simple Spring Boot application connected to MongoDB using the [sample_
 ---
 
 ## 🛠️ Setup & Installation
-Go to [spring initializer](start.spring.io)
+Go to [start.spring.io](https://start.spring.io/)
 choose ``maven`` and ``java``, then
 - Spring web
 - Spring dev tools
