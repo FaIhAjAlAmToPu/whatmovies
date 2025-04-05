@@ -12,13 +12,15 @@ This is a simple Spring Boot application connected to MongoDB using the [sample_
 - 📄 Java 21
 ---
 
-## 🛠️ Setup & Installation
+## 🛠️ Setup Followed
 Go to [start.spring.io](https://start.spring.io/)
 choose ``maven`` and ``java``, then
 - Spring web
 - Spring dev tools
 - Spring data MongoDB
 - Lombok
+
+## 🚀 Run the Application
 ### 📁 Clone the Repository
 ```bash
 git clone https://github.com/FaIhAjAlAmToPu/whatmovies.git
@@ -27,5 +29,3 @@ git clone https://github.com/FaIhAjAlAmToPu/whatmovies.git
 ```bash
 connection_string=mongodb+srv://<username>:<password>@<cluster>.mongodb.net
 ```
-
-## 🚀 Run the Application
